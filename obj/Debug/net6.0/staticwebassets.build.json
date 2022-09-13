@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "Hash": "+KNe9B23SYl6QIp45AnDcxU5Y/rhnZeNY8ZbweBZ14E=",
+  "Source": "MyProject",
+  "BasePath": "_content/MyProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "D:\\IlmHub\\DotNet\\MVC\\MyProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyProject.styles.css",
+      "SourceId": "MyProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\IlmHub\\DotNet\\MVC\\MyProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/MyProject",
+      "RelativePath": "MyProject.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\IlmHub\\DotNet\\MVC\\MyProject\\obj\\Debug\\net6.0\\scopedcss\\bundle\\MyProject.styles.css"
+    },
+    {
+      "Identity": "D:\\IlmHub\\DotNet\\MVC\\MyProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyProject.bundle.scp.css",
+      "SourceId": "MyProject",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\IlmHub\\DotNet\\MVC\\MyProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/MyProject",
+      "RelativePath": "MyProject.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\IlmHub\\DotNet\\MVC\\MyProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyProject.bundle.scp.css"
+    }
+  ]
+}
